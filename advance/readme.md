@@ -7,4 +7,4 @@
 * 쓰레드를 사용한 에코 서버와 클라이언트 예제
 
 ## socket 
-![socket.png](./img/socket.png)
+![socket.png](./socket.png)
